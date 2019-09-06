@@ -1,4 +1,4 @@
-# MyBB_Theme_MagicalSky-
+# MyBB_Theme_MagicalSky
 
 MagicalSky v1.0
 » About:
